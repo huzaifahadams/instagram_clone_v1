@@ -1,0 +1,10 @@
+
+
+<?xml version="1.0" encoding= "utf-8"?>
+<resources>
+
+<string name="facebook_app_id">449745677555948</string>
+<string name="fb_login_protocol_scheme">fb8f96e49314c5cb804d3d41c64b280864</string>
+<string name="facebook_client_token">89345d07b3683025e89ab7f5dff4924d</string>
+<string name="app_name">Havesleads</string>
+</resources>
